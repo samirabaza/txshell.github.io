@@ -1,37 +1,97 @@
-## Welcome to GitHub Pages
+## [TXShell](https://txshell.github.io): A shell for your [Nvidia Jetson TX1/TX2 Developer Kits](http://www.nvidia.com/object/embedded-systems-dev-kits-modules.html)
 
-You can use the [editor on GitHub](https://github.com/txshell/txshell.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Available at:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+   - [Amazon.com](https://www.amazon.com/Jiangrui-Acrylic-Shell-Nvidia-Jetson/dp/B072VXYCRZ/)
 
-### Markdown
+### 1. Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  - Evolving design for mobility, practicality and reliability
+    - current version is 6^th
+  - Selected Materials:
+    - thickened (5mm) plates made with high quality acrylic
+    - copper cylinders
+    - 304 stainless steel for fasteners
+  - Supports:
+    - stack at least 8 shells vertically
+    - flexible 2.5 inch hard driver installation with direct plug-in support
 
-```markdown
-Syntax highlighted code block
+### 2. Package contents
+Each pack of TXShell includes:
 
-# Header 1
-## Header 2
-### Header 3
+   - Fasteners: _4_- x `M4 screws`; _8_ x `M4 washers`; _4_ x `long cylinders`; _4_ x `short cylinders`
+   - Plates: _1_ x `top plate`; _1_ x `bottom plate`; _4_ x `EVA rubber mats`
+   - Add-ons: _4_ x `M3 screws`; _4_ x `M3 washers`; _1_ x `SATA cable`
 
-- Bulleted
-- List
+There are only two sizes of screws/washers, simply, `M4` ones are bigger/wider/longer than `M3` ones.
 
-1. Numbered
-2. List
+The plates may come with **grass paper** cover, feel free to tear them off before assembly.
 
-**Bold** and _Italic_ and `Code` text
+The cable is an intergerated (power + data) 15cm male-female one with support 3.3V for external drivers.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 3. How to assemble
+There are 3 simple steps to assemble the shell.
 
-### Jekyll Themes
+Keep in mind the following 2 simple rules during the assembly:
+   - for each plate, always ensure its side with carves facing the developer kit
+   - alway place a washer between the kit/a driver and a cylinder
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/txshell/txshell.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+In the end, it should looks like:
 
-### Support or Contact
+![](/imgs/txshell-done-front.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![](/imgs/txshell-done-back.jpg)
+
+_Let's begain !_
+
+
+#### 3.1 bottom plate
+_See **Install Drivers** first if you want to install a driver_
+
+**Now,** through the corner holes marked with **underlines** in the `bottom plate`, 
+connecting `M4 screws` -> `bottom plate` -> `short cylinders` -> `M4 washers` -> `the kit` from the bottom up.
+
+You should get:
+
+![](/imgs/txshell-step1.jpg)
+
+
+#### 3.2 developer kit
+
+**Then,** from the top side of the kit, connecting `M4 washers` -> `long cylinders`.
+
+You should get:
+
+![](/imgs/txshell-step2.jpg)
+
+
+#### 3.3 top plate
+**At last,** placing the `top plate` on the `long cylinders` and use `M4 screws` to secure it.
+
+You should get:
+
+![](/imgs/txshell-step3.jpg)
+
+In addition, placing the `mats` on the bottom of the shell at the position marked with **cross**.
+
+So, that's all, we made it !!!
+
+#### Install Drivers
+On the both plates, there are holes marked with **disk** icon.
+ Aligning the holes with the top left of the disk driver,
+ placing a `m3 washer` between them and use `m3 screws` to secure the driver,
+ then you done.
+
+You should get (view from bottom):
+
+![](/imgs/txshell-driver.jpg)
+
+
+### Copyrights
+**All Rights Reserved.**
+
+
+_Designed by The Blue in Edinburgh._ 
+
+[editor on GitHub](https://github.com/txshell/txshell.github.io/edit/master/index.md)
