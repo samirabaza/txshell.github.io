@@ -26,7 +26,9 @@ Each pack of TXShell includes:
 
 There are only two sizes of screws/washers, simply, `M4` ones are bigger/wider/longer than `M3` ones.
 
-The plates may come with **grass paper** cover, feel free to tear them off before assembly.
+The plates may come with **grass paper  cover** for protection, feel free to tear them off before assembly.
+
+​	- The paper may be scratched during the delivery, just tear them off. 
 
 The cable is an intergerated (power + data) 15cm male-female one with support 3.3V for external drivers.
 
