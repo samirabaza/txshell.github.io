@@ -2,13 +2,13 @@
 
 Available at:
 
-   - [Amazon.com](https://www.amazon.com/Jiangrui-Acrylic-Shell-Nvidia-Jetson/dp/B072VXYCRZ/)
+   - [Amazon.com](https://www.amazon.com/Jiangrui-Acrylic-Shell-Nvidia-Jetson/dp/B072VXYCRZ/) : Please **reviews** to let us know how do you feel, we do value that.
    - [Wish.com](https://www.merchant.wish.com/): Keywords: _TXShell_
 
 ### 1. Features
 
   - Evolving design for mobility, practicality and reliability
-    - current version is 6^th
+    - current version is 6th
   - Selected Materials:
     - thickened (5mm) plates made with high quality acrylic
     - copper cylinders
@@ -26,11 +26,9 @@ Each pack of TXShell includes:
 
 There are only two sizes of screws/washers, simply, `M4` ones are bigger/wider/longer than `M3` ones.
 
-The plates may come with **grass paper  cover** for protection, feel free to tear them off before assembly.
+Tearing the **grass paper covers** on the plates off before assembly. They are for protection and may be scratched during the delivery. 
 
-​	- The paper may be scratched during the delivery, just tear them off. 
-
-The cable is an intergerated (power + data) 15cm male-female one with support 3.3V for external drivers.
+The cable is an integrated (power + data) 15cm male-female one with 3.3V support for external drivers.
 
 
 ### 3. How to assemble
