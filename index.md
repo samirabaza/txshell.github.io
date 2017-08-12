@@ -2,7 +2,7 @@
 
 Available at:
 
-   - [Amazon.com](https://www.amazon.com/Jiangrui-Acrylic-Shell-Nvidia-Jetson/dp/B072VXYCRZ/) : Please **reviews** to let us know how do you feel, we do value that.
+   - [Amazon.com](https://www.amazon.com/Jiangrui-Acrylic-Shell-Nvidia-Jetson/dp/B072VXYCRZ/) : Please **reviews** to let us know how do you feel, we do value them.
    - [Wish.com](https://www.merchant.wish.com/): Keywords: _TXShell_
 
 ### 1. Features
