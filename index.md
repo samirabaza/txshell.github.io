@@ -20,7 +20,7 @@ Available at:
 ### 2. Package contents
 Each pack of TXShell includes:
 
-   - Fasteners: _4_- x `M4 screws`; _8_ x `M4 washers`; _4_ x `long cylinders`; _4_ x `short cylinders`
+   - Fasteners: _8_- x `M4 screws`; _8_ x `M4 washers`; _4_ x `long cylinders`; _4_ x `short cylinders`
    - Plates: _1_ x `top plate`; _1_ x `bottom plate`; _4_ x `EVA rubber mats`
    - Add-ons: _4_ x `M3 screws`; _4_ x `M3 washers`; _1_ x `SATA cable`
 
