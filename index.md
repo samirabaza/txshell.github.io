@@ -28,7 +28,7 @@ There are only two sizes of screws/washers, simply, `M4` ones are bigger/wider/l
 
 Tearing the **grass paper covers** on the plates off before assembly. They are for protection and may be scratched during the delivery. 
 
-The cable is an integrated (power + data) 15cm male-female SATA cable for 2.5 inch hard drivers.
+The cable is an integrated (power + data) 15cm male-female one, for 2.5 inch hard drivers.
 
 
 ### 3. How to assemble
